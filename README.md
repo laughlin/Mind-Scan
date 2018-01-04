@@ -20,7 +20,7 @@ Notebook can be run from a docker file with the following link. However, there i
 ## Alternative way 3 to run the notebook
 Python 3.x, pip, and virtualenv must be installed. Then, from the main directory folder of the repo, call
 
-`virtualenv mindscan-automation`
-`source activate mindscan-automation`
-`pip install -r requirements.txt`
+`virtualenv mindscan-automation`  
+`source activate mindscan-automation`  
+`pip install -r requirements.txt`  
 `jupyter notebook`
